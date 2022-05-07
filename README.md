@@ -7,4 +7,4 @@ Climate Mode is a Weather Detector Application using Django and Open-Weather API
 
 
 ## Preview SreenShot
-<img width="420" src="screenshot/screen-shot.png">
+<img src="screenshot/screen-shot.png">
